@@ -1,0 +1,33 @@
+{
+    "name": "Sahyadri Land Uran ",
+    "address": "B-23 Agarwal Trade centre, Sec-11 Belapur Navi Mum Navi Mumbai",
+    "description": "Sahyadri Land Uran , a plot estate situated in Uran, Navi Mumbai is a residential development of Sahyadri Infrastructure. It is spanned over a wide area. The project is built with all essential amenities and is in close vicinity to all necessities.",
+    "image": "https://ipfs.io/ipfs/Qmc5NDcBmTdk8YF9e4UGKmawgATG7WPMBvVjKjKzhva2Cn?filename=sahyadri.jpg",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Places nearby",
+            "value": "Indra Gandhi Hospital"
+        },
+        {
+            "trait_type": "Rating",
+            "value": 3.8
+        },
+        {
+            "trait_type": "Project Area",
+            "value": 0.1
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 1100
+        },
+        {
+            "trait_type": "Phone no.",
+            "value": 956587887
+        }
+    ]
+}

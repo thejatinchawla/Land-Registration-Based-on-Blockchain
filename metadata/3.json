@@ -1,0 +1,33 @@
+{
+    "name": "Prime Aamhi Urankar ",
+    "address": "D10 Ambewadi Jss Road Shankar Seth Marg Girgaon, Mumbai,Mumbai,400004,India",
+    "description": "Greenscape land uran, a land estate situated in uran, navi mumbai is a residential development of greenscape developers. The project is built with all essential amenities and is in close vicinity to all necessities.",
+    "image": "https://ipfs.io/ipfs/QmPosQvc1sfjCbWRvArQMu85bhQ1f9FbdNXarxoYnSeAB7?filename=prime.jpg",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 5
+        },
+        {
+            "trait_type": "Places nearby",
+            "value": "Gade Hospital"
+        },
+        {
+            "trait_type": "Rating",
+            "value": 3.5
+        },
+        {
+            "trait_type": "Project Area",
+            "value": 0.3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": "1000 - 1089"
+        },
+        {
+            "trait_type": "Phone no.",
+            "value": 6584797845
+        }
+    ]
+}

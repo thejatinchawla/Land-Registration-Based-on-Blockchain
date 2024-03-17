@@ -1,0 +1,33 @@
+{
+    "name": "Greenscape Land Uran",
+    "address": "406 Ideal Trade Center Navi Mumbai",
+    "description": "Greenscape land uran, a land estate situated in uran, navi mumbai is a residential development of greenscape developers. The project is built with all essential amenities and is in close vicinity to all necessities.",
+    "image": "https://ipfs.io/ipfs/QmYK9cxkCjyyv2X2CR432oBz2qvPDzfQQuDn4UkC482orH?filename=greenscape.jpg",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 5
+        },
+        {
+            "trait_type": "Places nearby",
+            "value": "Dr. Babres Hospital"
+        },
+        {
+            "trait_type": "Rating",
+            "value": 4
+        },
+        {
+            "trait_type": "Project Area",
+            "value": 0.1
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 1089
+        },
+        {
+            "trait_type": "Phone no.",
+            "value": 7758897845
+        }
+    ]
+}
